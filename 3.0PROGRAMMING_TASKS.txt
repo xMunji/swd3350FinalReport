@@ -1,0 +1,5 @@
+The tasks of the CompanyZ include 
+
+Programming DATABASE_SCHEMA
+Programming the Sequence documents
+Manually coding the JAVA_CLASS_DIAGRAM
